@@ -53,9 +53,10 @@ background:linear-gradient(#666666,#000000);
 .card {
 	margin-bottom:60px;
 }
-.carousel slide{
-	width: 500px;
-	height: 345px;
+.carousel{
+	width: 934px;
+	height: 623px;
+	margin-left: 50px;
 }
 .margin {
 	margin-bottom: 100px;
